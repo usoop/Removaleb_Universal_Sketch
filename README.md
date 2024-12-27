@@ -2,7 +2,7 @@
 
 # A Universal Sketch for Estimating Heavy Hitters and Per-Element Frequency Moments in Data Streams with Bounded Deletions
 
-This anonymous repository provides the **technical report** of our paper "A Universal Sketch for Estimating Heavy Hitters and
+This anonymous repository provides the **technical report** `TechnicalReport.pdf` of our paper "A Universal Sketch for Estimating Heavy Hitters and
 Per-Element Frequency Moments in Data Streams with Bounded Deletions".
 
 ## Abstract
